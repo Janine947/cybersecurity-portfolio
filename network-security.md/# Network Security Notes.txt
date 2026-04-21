@@ -1,0 +1,19 @@
+# Network Security Notes
+
+## What is Network Security?
+Network security is the practice of protecting computer networks from unauthorized access, misuse, attacks, and data breaches.
+
+## Important Concepts
+- Firewall: Filters incoming and outgoing traffic
+- VPN: Encrypts internet traffic for secure communication
+- IDS: Intrusion Detection System used to detect suspicious activity
+- IPS: Intrusion Prevention System used to block malicious activity
+
+## Common Threats
+- Man-in-the-middle attacks
+- Denial-of-service attacks
+- Packet sniffing
+- Unauthorized access
+
+## Why It Matters
+Strong network security protects sensitive data, systems, and communication channels.

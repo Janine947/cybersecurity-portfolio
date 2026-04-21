@@ -1,0 +1,16 @@
+# Common Vulnerabilities
+
+## SQL Injection
+A vulnerability where malicious SQL code is inserted into a query, allowing attackers to access or manipulate database data.
+
+## Cross-Site Scripting (XSS)
+A vulnerability that allows attackers to inject malicious scripts into web pages viewed by other users.
+
+## Broken Authentication
+Weak authentication mechanisms can allow attackers to gain unauthorized access to accounts.
+
+## Insecure Direct Object References
+Occurs when users can access data or resources without proper authorization checks.
+
+## Security Misconfiguration
+Happens when default settings, open storage, unnecessary services, or weak permissions expose systems to attacks.

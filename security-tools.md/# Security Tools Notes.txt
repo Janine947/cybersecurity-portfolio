@@ -1,0 +1,16 @@
+# Security Tools Notes
+
+## Wireshark
+Used for capturing and analyzing network traffic.
+
+## Nmap
+Used for network discovery and port scanning.
+
+## Burp Suite
+Used for web application security testing.
+
+## Metasploit
+Used for penetration testing and vulnerability validation in authorized environments.
+
+## Nessus
+Used for vulnerability scanning and identifying system weaknesses.
